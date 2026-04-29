@@ -1,0 +1,157 @@
+name,type,region
+Brown University,Ivy,Northeast
+Columbia University in the City of New York,Ivy,Northeast
+Cornell University,Ivy,Northeast
+Dartmouth College,Ivy,Northeast
+Harvard University,Ivy,Northeast
+Princeton University,Ivy,Northeast
+University of Pennsylvania,Ivy,Northeast
+Yale University,Ivy,Northeast
+George Washington University,Elite Private,South
+Johns Hopkins University,Elite Private,South
+New York University,Elite Private,Northeast
+Northeastern University,Elite Private,Northeast
+Northwestern University,Elite Private,Midwest
+Pacific Oaks College,Elite Private,West
+Rice University,Elite Private,South
+Stanford University,Elite Private,West
+Tufts University,Elite Private,Northeast
+University of Chicago,Elite Private,Midwest
+University of Southern California,Elite Private,West
+Vanderbilt University,Elite Private,South
+Washington University in St Louis,Elite Private,Midwest
+California Institute of Technology,Tech,West
+California Polytechnic State University-San Luis Obispo,Tech,West
+Colorado School of Mines,Tech,West
+Franklin W Olin College of Engineering,Tech,Northeast
+Georgia Institute of Technology-Main Campus,Tech,South
+Illinois Institute of Technology,Tech,Midwest
+Massachusetts Institute of Technology,Tech,Northeast
+Rose-Hulman Institute of Technology,Tech,Midwest
+Webb Institute,Tech,Northeast
+Worcester Polytechnic Institute,Tech,Northeast
+Indiana University-Bloomington,Public Flagship,Midwest
+Michigan State University,Public Flagship,Midwest
+Ohio State University-Main Campus,Public Flagship,Midwest
+Purdue University-Main Campus,Public Flagship,Midwest
+Rutgers University-New Brunswick,Public Flagship,Northeast
+The University of Texas at Austin,Public Flagship,South
+University of Arizona,Public Flagship,West
+University of California-Berkeley,Public Flagship,West
+University of California-Irvine,Public Flagship,West
+University of California-Los Angeles,Public Flagship,West
+University of California-San Diego,Public Flagship,West
+University of Colorado Boulder,Public Flagship,West
+University of Florida,Public Flagship,South
+University of Georgia,Public Flagship,South
+University of Illinois Urbana-Champaign,Public Flagship,Midwest
+University of Iowa,Public Flagship,Midwest
+University of Maryland-College Park,Public Flagship,South
+University of Michigan-Ann Arbor,Public Flagship,Midwest
+University of Minnesota-Twin Cities,Public Flagship,Midwest
+University of North Carolina at Chapel Hill,Public Flagship,South
+University of Virginia-Main Campus,Public Flagship,South
+University of Washington-Seattle Campus,Public Flagship,West
+University of Wisconsin-Madison,Public Flagship,Midwest
+Colorado State University-Fort Collins,Public Regional,West
+Florida International University,Public Regional,South
+Florida State University,Public Regional,South
+Iowa State University,Public Regional,Midwest
+Mississippi State University,Public Regional,South
+San Diego State University,Public Regional,West
+The University of Alabama,Public Regional,South
+University of Alabama at Birmingham,Public Regional,South
+University of Alabama in Huntsville,Public Regional,South
+University of Alaska Anchorage,Public Regional,West
+University of Alaska Southeast,Public Regional,West
+University of Central Florida,Public Regional,South
+University of Hawaii at Hilo,Public Regional,West
+University of Hawaii at Manoa,Public Regional,West
+University of Houston,Public Regional,South
+University of Houston-Clear Lake,Public Regional,South
+University of Houston-Victoria,Public Regional,South
+Amherst College,Liberal Arts,Northeast
+Bowdoin College,Liberal Arts,Northeast
+Carleton College,Liberal Arts,Midwest
+Claremont McKenna College,Liberal Arts,West
+Colby College,Liberal Arts,Northeast
+Davidson College,Liberal Arts,South
+Grinnell College,Liberal Arts,Midwest
+Haverford College,Liberal Arts,Northeast
+Kenyon College,Liberal Arts,Midwest
+Middlebury College,Liberal Arts,Northeast
+Oberlin College,Liberal Arts,Midwest
+Pomona College,Liberal Arts,West
+Reed College,Liberal Arts,West
+Swarthmore College,Liberal Arts,Northeast
+Whitman College,Liberal Arts,West
+Williams College,Liberal Arts,Northeast
+Clark Atlanta University,HBCU,South
+Dillard University,HBCU,South
+Fisk University,HBCU,South
+Florida Agricultural and Mechanical University,HBCU,South
+Grambling State University,HBCU,South
+Hampton University,HBCU,South
+Howard University,HBCU,South
+Morehouse College,HBCU,South
+Morehouse School of Medicine,HBCU,South
+Morgan State University,HBCU,South
+Tuskegee University,HBCU,South
+Xavier University of Louisiana,HBCU,South
+Baylor University,Religious,South
+Boston College,Religious,Northeast
+College of the Ozarks,Religious,Midwest
+Duke University,Religious,South
+Emory University,Religious,South
+Fordham University,Religious,Northeast
+Georgetown University,Religious,South
+Gonzaga University,Religious,West
+Liberty University,Religious,South
+Loyola University Chicago,Religious,Midwest
+Southern Methodist University,Religious,South
+University of Notre Dame,Religious,Midwest
+Villanova University,Religious,Northeast
+Barnard College,Womens,Northeast
+Bennett College,Womens,South
+Bryn Mawr College,Womens,Northeast
+Smith College,Womens,Northeast
+Vassar College,Womens,Northeast
+Wellesley College,Womens,Northeast
+United States Air Force Academy,Service Academy,West
+United States Coast Guard Academy,Service Academy,Northeast
+United States Merchant Marine Academy,Service Academy,Northeast
+United States Military Academy,Service Academy,Northeast
+United States Naval Academy,Service Academy,South
+Capella University,For-Profit,Midwest
+DeVry University-Illinois,For-Profit,Midwest
+Full Sail University,For-Profit,South
+Grand Canyon University,For-Profit,West
+Southern New Hampshire University,For-Profit,Northeast
+Strayer University-District of Columbia,For-Profit,South
+University of Phoenix-Arizona,For-Profit,West
+Walden University,For-Profit,Midwest
+Western Governors University,For-Profit,West
+Austin Community College District,Community College,South
+Broward College,Community College,South
+Community College of Philadelphia,Community College,Northeast
+Houston Community College,Community College,South
+Ivy Tech Community College,Community College,Midwest
+Lone Star College System,Community College,South
+Miami Dade College,Community College,South
+Northern Virginia Community College,Community College,South
+Pasadena City College,Community College,West
+Santa Monica College,Community College,West
+Tarrant County College District,Community College,South
+Valencia College,Community College,South
+Blackfeet Community College,Tribal,West
+Dine College,Tribal,West
+Haskell Indian Nations University,Tribal,Midwest
+Navajo Technical University,Tribal,West
+Salish Kootenai College,Tribal,West
+Berklee College of Music,Specialized Arts,Northeast
+California Institute of the Arts,Specialized Arts,West
+Curtis Institute of Music,Specialized Arts,Northeast
+Pratt Institute-Main,Specialized Arts,Northeast
+Rhode Island School of Design,Specialized Arts,Northeast
+School of the Art Institute of Chicago,Specialized Arts,Midwest
+The Juilliard School,Specialized Arts,Northeast
